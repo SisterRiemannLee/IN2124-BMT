@@ -8,6 +8,5 @@ dependencies:
   - numpydoc=0.9.1=py_0
   - pip=19.2.3=py37_0
   - pip:
-    - skimage
     - mpl_toolkits
     - ipythonblocks==1.9.0
